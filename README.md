@@ -3,4 +3,5 @@
 
 **Note**
 
-Password will be shared with the reviewer
+* Password will be shared with the reviewer
+* Reporting and data creation/cleanup are not handled 
