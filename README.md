@@ -1,4 +1,4 @@
-**To run test :**
+**Run test on git bash :**
 * cypress_password=$password npx cypress run
 
 **Note**
